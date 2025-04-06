@@ -20,17 +20,12 @@ A RESTful API built with FastAPI and PostgreSQL for managing books. This applica
 - **Pydantic**: Data validation using Python type annotations
 - **asyncpg**: Async PostgreSQL database driver
 
-## 📋 Prerequisites
-
-- Docker and Docker Compose
-- Git
 
 ## 🔧 Installation & Setup
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/book-app.git
-cd book-app
+git clone https://github.com/Macmillan1411/Books.git
 ```
 
 2. Create environment file:
