@@ -31,8 +31,3 @@ class BookCreateModel(BaseModel):
     published_date: str
     page_count: int
     language: str
-
-
-class UserSchema(BaseModel):
-    username: str
-    password: str
